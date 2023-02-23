@@ -5,7 +5,7 @@ About 👋
 - 💬 Ask me about anything about homelab, self-hosted, infrastructure (cloud/on-prem) and kubernetes
 - 📫 How to reach me:
   - Linkedin: [chaijunkin](https://www.linkedin.com/in/chaijunkin)
-  - Mail: [chaijunkin](mailto:chaijunkin@gmail.com)
+  - Mail: [chaijunkin@gmail.com](mailto:chaijunkin@gmail.com)
   - Contact: [Contact](https://me.netopspy.top) (Maintenance)
 
 
