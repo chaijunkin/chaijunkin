@@ -6,7 +6,7 @@ About 👋
 - 📫 How to reach me:
   - Linkedin: [chaijunkin](https://www.linkedin.com/in/chaijunkin)
   - Mail: [chaijunkin@gmail.com](mailto:chaijunkin@gmail.com)
-  - Contact: [Contact](https://me.netopspy.top) (Maintenance)
+  - Contact: [Contact](https://me.cloudjur.com) (Maintenance)
 
 
 <!--- 
