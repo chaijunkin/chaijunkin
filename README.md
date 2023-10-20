@@ -9,9 +9,9 @@ MAINTENANCE
 ## What am I doing?
 
 - 🌉 Building out cloud platform infrastructure @ [AWS](https://aws.com)
-- 🔐 Ensuring security on systems in zero-trust environments
 - 🌱 I’m currently learning everything about system design 🤣
 - 🎉 Creating self-hosting service for family using kubernetes
+- 🔐 Ensuring security on systems in zero-trust environments
 - ⚡ Codify **_ALL OF THE THINGS_**
 - 💬 Ask me about anything about homelab, self-hosting service, infrastructure (cloud/on-prem) and kubernetes
 
